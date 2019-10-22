@@ -1,4 +1,4 @@
-# Load-Balancer:
+# Load-Balancer
 
 In computing, load balancing improves the distribution of workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives.
 
